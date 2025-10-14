@@ -1,0 +1,29 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "35R6UBBK6K.com.duseca.popdarts",
+                    "35R6UBBK6K.com.duseca.popdarts.dev"
+                ],
+                "components": [
+                    {
+                        "#": "no_universal_links",
+                        "exclude": true,
+                        "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+                    },
+                    {
+                        "/": "/match/*",
+                        "comment": "Matches any URL with a path that starts with /match/."
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "35R6UBBK6K.com.duseca.popdarts",
+            "35R6UBBK6K.com.duseca.popdarts.dev"
+        ]
+    }
+}

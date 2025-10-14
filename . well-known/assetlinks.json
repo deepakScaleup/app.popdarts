@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.firebase.popdarts",
+      "sha256_cert_fingerprints": [
+        "8A:27:FF:04:D3:00:22:C5:C6:10:6A:44:0C:D0:25:9F:E6:A0:F8:64:65:E4:83:5B:84:FA:FB:A9:B3:37:34:66",
+        "21:6D:7D:79:C8:55:D8:06:C1:F7:B7:EA:76:AF:C7:0F:32:EF:9B:07:7B:1F:59:71:E7:4A:23:4A:34:DA:B9:0D"
+      ]
+    }
+  }
+]
